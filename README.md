@@ -11,7 +11,7 @@ This is a vanilla JavaScript project that [describe what your project does].
 To use this project, simply download the repository and open the index.html file in your web browser.
 
 ### Usage
-[Describe how to use your project here]
+as a Stopwatch
 
 ## Features
 [List the features of your project]
