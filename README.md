@@ -1,3 +1,6 @@
+# My Vanilla JavaScript Project 
+# Stopwatch-Project
+
 ![image](https://user-images.githubusercontent.com/92548589/233402236-86d8a6b6-ef9a-41eb-a76b-82e87a24ab00.png)
 
 
